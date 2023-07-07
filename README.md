@@ -1,7 +1,8 @@
-Movie Tree Map Visualization
+# Movie Tree Map Visualization
 This project is a movie tree map visualization implemented using D3.js. It displays a hierarchical representation of movie data where each node represents a movie and is sized based on its revenue. The visualization provides an interactive experience by showing tooltips with additional information when hovering over movie tiles.
 
-Screenshot
+## Preview
+
 
 ## Getting Started
 To get a local copy of the project up and running, follow these steps:
